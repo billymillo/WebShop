@@ -1,0 +1,58 @@
+@media (max-width:768px){
+    .nav-bar{
+        gap: 60%;
+    }
+
+    .article-container-two{
+        margin: 0px 0px 0px 80px;
+    }
+
+    .article-container-two h1{
+        font-size: 50px;
+    }
+
+    .top-image{
+        width: 75%;
+    }
+
+    .top-imagetwo{
+        width: 50%;
+        margin: 70px 0px 0px 90px;
+    }
+
+    .keychain{
+        width: 80px;
+        height: 80px;
+    }
+
+    .aside-key{
+        width: auto;
+        height: 100px;
+    }
+
+    .container-four{
+        height: 800px;
+    }
+
+    .container-four h1{
+        padding: 50px;
+    }
+
+    .content-four{
+        height: 300px;
+    }
+
+    .shirt-one{
+        width: 200px;
+        height: 250px;
+        padding-top: 20px;
+    }
+
+    .footer-icon{
+        padding-left: 13px;
+    }
+}
+
+@media (max-width:480px){
+
+}
